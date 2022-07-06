@@ -5,7 +5,7 @@ Welcome to my GitHub page, my name is Noa. I am a Computer Science student at Gh
 - 🔭 I’m currently working on creating an **8-bit computer**.
 - 🌱 I’m currently learning **linear algebra**
 
-## 🔗 My Precense on the Internet
+## 🔗 My Presence on the Internet
 
 - 🌐 noavermeers.ch
 - 💼  LinkedIn
