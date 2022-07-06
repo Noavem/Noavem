@@ -1,7 +1,15 @@
-## 👋 Introduction
+## 👋 Hello World
 
-Hello World
+Welcome to my GitHub page, my name is Noa. I am a Computer Science student at Ghent University. I'm specifically interested in neural networks and electrical engineering. Besides studying, I like watching anime, playing videogames and reading books.
 
+- 🔭 I’m currently working on creating an 8-bit computer.
+- 🌱 I’m currently learning **linear algebra**
+
+## 📫 Contact me on Social Media
+
+- 🌐 noavermeers.ch
+- 💼  LinkedIn
+- 📫 noavermeersch@proton.me
 <!--
 **Noavem/Noavem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
