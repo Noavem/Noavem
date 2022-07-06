@@ -16,7 +16,7 @@ Welcome to my GitHub page, my name is Noa. I am a Computer Science student at Gh
 
 &nbsp;
 ### My Favorite Languages and Technologies
-[![React Badge](https://img.shields.io/badge/C++-61DBFB?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=61DBFB)](#)
+![C++](https://img.shields.io/badge/c%2B%2B-%230175C2.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 &nbsp;
 
 <!--
