@@ -6,7 +6,7 @@ I am Noa, a developer located in <img src="https://cdn-icons-png.flaticon.com/51
 - 🌱 I’m currently learning **linear algebra**
 
 &nbsp;
-### Learn more about me
+### Learn More About Me
 
 - 🌐 noavermeers.ch
 - 💼  LinkedIn
