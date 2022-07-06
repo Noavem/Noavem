@@ -17,8 +17,9 @@ I am Noa, a developer located in <img src="https://cdn-icons-png.flaticon.com/51
 &nbsp;
 ### My Favorite Languages and Technologies
 ![C++](https://img.shields.io/badge/c%2B%2B-%230175C2.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-&nbsp;
 
+
+&nbsp;
 ### GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noavem)](https://github.com/anuraghazra/github-readme-stats)
 
