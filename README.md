@@ -3,7 +3,7 @@
 I am Noa, a developer located in <img src="https://cdn-icons-png.flaticon.com/512/299/299783.png" width="13"/> Belgium. I am currently studying Computer Science at Ghent University. I'm especially interested in computers graphics and computer architecture. Besides studying, I like watching TV-shows, playing videogames and reading books.
 
 - 🔭 I’m currently working on an **16-bit computer system**.
-- 🌱 I’m currently self-studying **computer architecture**
+- 🌱 I’m currently self-studying **computer architecture**.
 
 
 ### Learn More About Me
