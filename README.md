@@ -8,6 +8,6 @@ I am Noa, a developer located in <img src="https://cdn-icons-png.flaticon.com/51
 
 ### Learn More About Me
 
-- 🌐 [noavermeers.ch](https://noavermeers.ch/)
+- 🌐 [noavermeers.ch](http://noavermeers.ch/)
 - 📫 noavermeersch@proton.me
 
